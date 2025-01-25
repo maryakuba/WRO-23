@@ -12,5 +12,5 @@ while True:
         
         #Make sure all is in other
         robot.reset()
-        #Main program here
+        
         break
